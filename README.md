@@ -14,3 +14,7 @@ console.log(randomFruit.list);
 // Prints all fruits in the json file.
 
 ```
+
+## License:
+
+- Apache 2.0
