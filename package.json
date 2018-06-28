@@ -1,0 +1,26 @@
+{
+  "name": "random-fruit",
+  "version": "1.0.0",
+  "description": "- It gives you a random fruit, why? because why not.",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap --coverage lib/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProgrammerColton/random-fruit.git"
+  },
+  "keywords": [],
+  "author": "ProgrammerColton [programmercolton@gmail.com]",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ProgrammerColton/random-fruit/issues"
+  },
+  "homepage": "https://github.com/ProgrammerColton/random-fruit#readme",
+  "devDependencies": {
+    "tap": "^12.0.1"
+  },
+  "dependencies": {
+    "unique-random-array": "^1.0.1"
+  }
+}
