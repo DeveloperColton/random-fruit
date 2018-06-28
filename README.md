@@ -10,7 +10,7 @@ const randomFruit = require('random-fruit');
 console.log(randomFruit.random());
 // Apple
 
-console.log(randomFruit.list());
+console.log(randomFruit.list);
 // Prints all fruits in the json file.
 
 ```
